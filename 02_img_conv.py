@@ -1,3 +1,6 @@
+
+#####第一种方案
+
 # 图像卷积示例
 from scipy import signal
 from scipy import misc
