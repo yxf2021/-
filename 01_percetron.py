@@ -9,7 +9,7 @@ def AND(x1, x2):
         return 0
     return 1
 
-
+#############传入数据jam
 print(AND(1, 1))  # 1
 print(AND(1, 0))  # 0
 print(AND(0, 0))  # 0
